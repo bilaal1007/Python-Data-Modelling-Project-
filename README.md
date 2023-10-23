@@ -11,10 +11,9 @@ Step 4 - Lastly, build a linear regression model that summarizes the relationshi
 
 
 ## Results
-my results were not able to be shown as my linremodel.summary() would not run 
-
+my results showed a really small positive correlation which may indicate that there is NO relationship or this may even indicate a negative relationships caused by the theory that people who use city bikes are of lower socioeconomic status and retaurants that are highly rated are more expensive to dine at. The theory could be derived that there is a inverse relationship between city bike amount within 1000m of each retaurants and their relationship with restaurant ratings.
 
 ## Challenges 
 main challenges i faced were trying to acquire the API data, it seemed that i ran into some bug that wouldnt accept my API key which delayed my progress
 ## Future Goals
-If i had more time i would spend more time getting more data from different APIs to get more accurate models about bike station numbers and POI characteristics in Hamilton 
+If i had more time i would spend more time getting more data from different APIs to get more accurate models about bike station numbers and restaurant ratings
