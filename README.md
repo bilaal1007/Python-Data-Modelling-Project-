@@ -5,7 +5,7 @@ My goal with this project is to be able to navigate through different public API
 Then I would like to be able to create a database of this compiled data and then visualize trends within the data which will give me insights about bike stations and restaurants in the city of Hamilton to potentially drive business decisions and increase profit.
 ## Process
 Step 1 - Acquire API data from city bikes api and parse the json data for latitude longitude and number of bikes in the city of Hamilton 
-Step 2- Acquire API data from Foursquare and Yelp for restaurants in the city of Hamilton and query every restaurant within 1km of each bike station in the city of HAmilton, also perform some eda to cehck for outlier and any skewed data 
+Step 2- Acquire API data from Foursquare and Yelp for restaurants in the city of Hamilton and query every restaurant within 1km of each bike station in the city of HAmilton, also perform some eda to check for outlier and any skewed data 
 Step 3- Join the data to create a main dataframe and then use bar chart to visulize some of the data 
 Step 4 - Lastly, build a linear regression model that summarizes the relationship between the number of bikes in a particular location and the rating of the restaurants in that location 
 
