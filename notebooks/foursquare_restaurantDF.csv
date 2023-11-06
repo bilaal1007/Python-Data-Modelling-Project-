@@ -1,0 +1,11 @@
+name,location
+Coop Wicked Chicken Hamilton,"{'address': '274 King St W', 'address_extended': '# 272', 'country': 'CA', 'cross_street': 'Hess St', 'formatted_address': '274 King St W (Hess St), Hamilton ON L8P 1J6', 'locality': 'Hamilton', 'postcode': 'L8P 1J6', 'region': 'ON'}"
+Coop Hamilton,"{'address': '274 King St W', 'address_extended': '# 272', 'country': 'CA', 'cross_street': '', 'formatted_address': '274 King St W, Hamilton ON L8P 1J6', 'locality': 'Hamilton', 'postcode': 'L8P 1J6', 'region': 'ON'}"
+Hess Village,"{'country': 'CA', 'formatted_address': 'Hamilton ON', 'locality': 'Hamilton', 'region': 'ON'}"
+Ark + Anchor,"{'address': '300 King St W', 'country': 'CA', 'cross_street': '', 'formatted_address': '300 King St W, Hamilton ON L8P 1B1', 'locality': 'Hamilton', 'postcode': 'L8P 1B1', 'region': 'ON'}"
+La Luna Restaurant Downtown,"{'address': '306 King St W', 'country': 'CA', 'cross_street': 'at Queen St', 'formatted_address': '306 King St W (at Queen St), Hamilton ON L8P 1B1', 'locality': 'Hamilton', 'postcode': 'L8P 1B1', 'region': 'ON'}"
+Smoke's Poutinerie,"{'address': '112 George St', 'country': 'CA', 'cross_street': 'at Queen St. S.', 'formatted_address': '112 George St (at Queen St. S.), Hamilton ON L8P 1E2', 'locality': 'Hamilton', 'postcode': 'L8P 1E2', 'region': 'ON'}"
+Scottish Rite,"{'address': '4 Queen St S', 'country': 'CA', 'cross_street': '', 'formatted_address': '4 Queen St S, Hamilton ON L8P 3R3', 'locality': 'Hamilton', 'postcode': 'L8P 3R3', 'region': 'ON'}"
+The George Hamilton,"{'address': '152 King St W', 'country': 'CA', 'cross_street': 'Bay And King', 'formatted_address': '152 King St W (Bay And King), Hamilton ON L8P 1A5', 'locality': 'Hamilton', 'postcode': 'L8P 1A5', 'region': 'ON'}"
+Subway,"{'address': '114 York Blvd', 'country': 'CA', 'cross_street': 'Bay St', 'formatted_address': '114 York Blvd (Bay St), Hamilton ON L8R 1R6', 'locality': 'Hamilton', 'postcode': 'L8R 1R6', 'region': 'ON'}"
+Hamilton Farmers' Market,"{'address': '55 York Blvd', 'country': 'CA', 'cross_street': 'at James', 'formatted_address': '55 York Blvd (at James), Hamilton ON L8R 3K1', 'locality': 'Hamilton', 'postcode': 'L8R 3K1', 'region': 'ON'}"
